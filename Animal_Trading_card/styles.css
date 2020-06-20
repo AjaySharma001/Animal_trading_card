@@ -1,0 +1,43 @@
+body{
+  width: 300px;
+  padding: 20px;
+  border: thin solid lightgrey;
+  box-shadow: 5px 5px 3px grey;
+ padding-right: 2em;
+}
+
+h2{
+  padding-bottom: 5px;
+  font-size: 20px;
+}
+
+.Animal_Image{
+  width:300px;
+  padding-left: 7px;
+  padding-bottom:10px;
+  }
+
+.infoBox_cover{
+    width: 290px;
+   border: 1px solid grey;
+    padding-right: .6em;
+    padding-left: .7em;
+  }
+
+.animal_fact{
+  font-style: italic;
+  font-size: 15px;
+  text-align: justify;
+}
+
+.list{
+  list-style:none;
+  margin: 0;
+  padding: 0;
+}
+
+span{
+  font-weight: bold;
+}
+
+
